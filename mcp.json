@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aiscent": {
+      "type": "http",
+      "url": "https://aiscentmcp.com/mcp"
+    }
+  }
+}
