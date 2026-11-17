@@ -1,0 +1,10 @@
+{
+  "name": "aiscent",
+  "version": "0.1.0",
+  "description": "Check authorized Apple app localization, screenshots, App Store Connect and release readiness through AiSCent.",
+  "mcpServers": {
+    "aiscent": {
+      "httpUrl": "https://aiscentmcp.com/mcp"
+    }
+  }
+}

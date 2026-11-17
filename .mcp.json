@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aiscent": {
+      "type": "http",
+      "url": "https://aiscentmcp.com/mcp",
+      "note": "Discover supported AiSCent tools and current app identity first. Ask for Apple/local executor access only when necessary; when missing, report the exact required handoff and continuation ID. Separate evidence f"
+    }
+  }
+}

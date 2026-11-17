@@ -1,0 +1,14 @@
+{
+  "name": "aiscent",
+  "version": "0.1.0",
+  "description": "Check authorized Apple app localization, screenshots, App Store Connect and release readiness through AiSCent.",
+  "author": {
+    "name": "SMAT Designs"
+  },
+  "repository": "https://github.com/jabbertones-cloud/aiscent-agent-plugin",
+  "keywords": [
+    "aiscent",
+    "mcp",
+    "agent"
+  ]
+}
